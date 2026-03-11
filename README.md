@@ -6,7 +6,7 @@
 - **Subject**: [Subject Name]
 
 ## Links
-- **GitHub Repository**: [Repository URL]
+- **GitHub Repository**: [[Repository URL]](https://github.com/EMGPSD/ima5112-2026-ice-task-1-ST10518027)
 - **YouTube Video**: [YouTube Video Link]
 
 ---
